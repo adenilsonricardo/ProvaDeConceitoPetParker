@@ -6,7 +6,7 @@
     android:layout_height="match_parent">
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/image_confirm"
+        android:id="@+id/image_error"
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:layout_margin="8dp"
@@ -23,18 +23,18 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/message_confirm"
+        android:id="@+id/message_error"
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:layout_margin="8dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/image_confirm">
+        app:layout_constraintTop_toBottomOf="@id/image_error">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="Autenticado. Seja bem vindo!!!" />
+            tools:text="Erro inesperado, tente novamente." />
     </androidx.cardview.widget.CardView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
