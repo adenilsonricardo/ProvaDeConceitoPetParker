@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473613666920",
+    "project_id": "provadeconceitopetparker",
+    "storage_bucket": "provadeconceitopetparker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473613666920:android:a2f09d34cf91de20cf49dd",
+        "android_client_info": {
+          "package_name": "com.example.provadeconceitopetparker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473613666920-p1vhhmp37d7maj0umpec7h8t7favnkj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmYX21FUTvfdz6Z_eGv2bEOApuq1yk8dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473613666920-p1vhhmp37d7maj0umpec7h8t7favnkj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
